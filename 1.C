@@ -10,7 +10,6 @@ char s1[50] ;
 char c;
 main()
 
-
 {
   clrscr();
   printf("string");
